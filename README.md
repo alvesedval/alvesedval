@@ -1,7 +1,7 @@
 ### Olá! Sou Edival Alves 👋
 
 - 🔭 Estudando front-End
-- 😄 Pronomes: Ele/Dele
+
 - ⚡ Buscando evolução
 
 
